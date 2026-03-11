@@ -1,0 +1,3 @@
+Proyecto Git Conflicts
+Responsable: Esmeralda Rojas
+Version: 1.0
