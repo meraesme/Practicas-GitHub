@@ -1,0 +1,4 @@
+Esmeralda Josselin Castaneda Rojas
+10 de Marzo del 2026
+Practicar el flujo completo de trabajo en GitHub
+Un Pull Request es una funcion clave que permite proponer, revisar y fusionar cambios de codigo
